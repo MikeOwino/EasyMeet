@@ -11,5 +11,4 @@ Even though your video and audio are off by default, you have to give access to 
 
 *Note: To create an account, you must open the website in a new tab.*
 
-### I hope you like it!
-
+## I hope you like it!
