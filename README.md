@@ -1,6 +1,5 @@
 I made this video conferencing app called EasyMeet! 
 ### Features
-
 - Chat Box
 - Private Messaging
 - Inviting
